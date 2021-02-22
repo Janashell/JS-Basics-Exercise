@@ -22,8 +22,37 @@ console.log("Wanda " + "Vision");
 console.log("Jana".length + "Shell".length);
 
 // 8
-console.log("Avengers:Endgame"[15]);
+console.log("Avengers: Endgame"[16]);
 
 // BONUS
 
 // 1
+console.log("\\");
+
+// 2
+console.log(5 ** 4 - 9);
+
+// 3
+console.log("I".length % "Am".length - "Iron".length % "Man".length);
+console.log("I".length - "Am".length + "Iron".length - "Man".length);
+
+// 4
+console.log("CAP"[1]);
+console.log("VISION"[0]);
+console.log("HAWKEYE"[4]);
+console.log("NICK FURY"[0]);
+console.log("GROOT"[0]);
+console.log("DOCTOR STRANGE"[13]);
+console.log("THOR"[3]);
+console.log("STAR-LORD"[0]);
+
+// 5
+var m = 10;
+var c = 5;
+var u = m + c;
+console.log(u);
+
+
+
+// 4
+
